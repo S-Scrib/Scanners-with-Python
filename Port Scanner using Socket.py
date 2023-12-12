@@ -1,4 +1,6 @@
+# Inspiration from https://hackertarget.com/port-scanner/
 # ok, going to import the right modules to start. Those would be 'Socket' and 'time'
+
 from socket import *
 import time
 startTime = time.time()
